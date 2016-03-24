@@ -1,7 +1,7 @@
 [
   {
     "remote":      "github",
-    "repository":  "TechExhibeo/kernel_test",
+    "repository":  "TechExhibeo/android_kernel_xiaomi_armani",
     "target_path": "kernel/xiaomi/armani",
     "branch":    "mm6.0"
   },
